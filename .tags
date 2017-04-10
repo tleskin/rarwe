@@ -1,0 +1,15 @@
+model	/Users/tleskin/rarwe/app/routes/bands/band/index.js	/^  model: function(params){$/;"	function	line:4
+afterModel	/Users/tleskin/rarwe/app/routes/bands/band/index.js	/^  afterModel: function(band) {$/;"	function	line:10
+model	/Users/tleskin/rarwe/app/routes/bands/band.js	/^  model: function(params){$/;"	function	line:4
+afterModel	/Users/tleskin/rarwe/app/routes/bands/band.js	/^  afterModel: function(band) {$/;"	function	line:10
+model	/Users/tleskin/rarwe/app/routes/bands.js	/^  model: function(){$/;"	function	line:8
+didTransition	/Users/tleskin/rarwe/app/routes/bands.js	/^    didTransition: function() {$/;"	function	line:51
+createBand	/Users/tleskin/rarwe/app/routes/bands.js	/^    createBand: function(){$/;"	function	line:55
+model	/Users/tleskin/rarwe/app/routes/bands/band/songs.js	/^  model: function(){$/;"	function	line:5
+resetController	/Users/tleskin/rarwe/app/routes/bands/band/songs.js	/^  resetController: function(controller) {$/;"	function	line:9
+didTransition	/Users/tleskin/rarwe/app/routes/bands/band/songs.js	/^    didTransition: function() {$/;"	function	line:14
+createSong	/Users/tleskin/rarwe/app/routes/bands/band/songs.js	/^    createSong: function(){$/;"	function	line:19
+edit	/Users/tleskin/rarwe/app/controllers/bands/band/details.js	/^    edit: function() {$/;"	function	line:7
+save	/Users/tleskin/rarwe/app/controllers/bands/band/details.js	/^    save: function() {$/;"	function	line:11
+model	/Users/tleskin/rarwe/app/routes/bands/band/details.js	/^  model: function() {$/;"	function	line:4
+willTransition	/Users/tleskin/rarwe/app/routes/bands/band/details.js	/^    willTransition: function(transition) {$/;"	function	line:9
