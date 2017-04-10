@@ -4,5 +4,5 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-model	/Users/tleskin/rarwe/app/routes/bands/band/details.js	/^  model: function() {$/;"	function	line:4
-willTransition	/Users/tleskin/rarwe/app/routes/bands/band/details.js	/^    willTransition: function(transition) {$/;"	function	line:9
+updateRating	/Users/tleskin/rarwe/app/controllers/bands/band/songs.js	/^    updateRating: function(params){$/;"	function	line:16
+enableSongCreation	/Users/tleskin/rarwe/app/controllers/bands/band/songs.js	/^    enableSongCreation: function() {$/;"	function	line:28
